@@ -1,0 +1,25 @@
+{
+  "name": "kodilla-7.5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKurukow/Kodilla-7.5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JKurukow/Kodilla-7.5/issues"
+  },
+  "homepage": "https://github.com/JKurukow/Kodilla-7.5#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.7",
+    "nu-html-checker": "^0.1.0"
+  }
+}
